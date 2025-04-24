@@ -7,3 +7,4 @@ venv/
 
 # System Files
 .DS_Store
+.feed.txt
